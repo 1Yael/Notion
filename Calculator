@@ -76,7 +76,7 @@ body {
 }
 
 .calculator .accent{
-   background: #f3fff3;  
+   background: #3f2d5e;  
 }
 
 .calculator button:hover,
